@@ -1,0 +1,35 @@
+body{
+    background-color: #FF43A1;
+}
+.form-control{
+    background-color: #02A1FF !important;
+    border-radius: 0;
+    -webkit-box-shadow: none !important;
+}
+.bg-danger{
+    background-color: #EC220A !important;
+    -webkit-box-shadow: none !important;
+}
+.bg-dark{
+    width: 40px;
+    height: 45px;
+    border-radius: 6px;
+    font-size: 20px;
+    color: white;
+    margin-right: 10px;
+    background-color: #000000 !important;
+    cursor: pointer;
+}
+.bg-dark p{
+    padding: 6px 13px;
+}
+.box{
+    font-size: 20px;
+    padding: 8px 13px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.box2{
+    background-color: #60D934 !important;  
+}
