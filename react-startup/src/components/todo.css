@@ -1,0 +1,27 @@
+body{
+    background: #ffff44 !important;
+    padding:0;
+    margin:0;
+    text-align:center;
+}
+label{
+    float: left;
+}
+.btn-success{
+    float:right;
+}
+li{
+    list-style-type: none;
+    display: block !important;
+}
+.border{
+    font-size: 20px;
+    float: left;
+    border: 1px solid black !important;
+}
+ul{
+    display:inline-block !important;
+}
+.todo-main{
+    display:block !important;
+}

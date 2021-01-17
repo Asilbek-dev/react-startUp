@@ -2,10 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 import "bootstrap/dist/css/bootstrap.css";
-import "./components/main.css";
+import "./components/todo.css";
 import reportWebVitals from './reportWebVitals';
 import "./components/FA/css/all.min.css";
 import "antd/dist/antd.css";
+
 
 ReactDOM.render(
   <React.StrictMode>
