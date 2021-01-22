@@ -1,5 +1,4 @@
 body{
-    background: #ffff44 !important;
     padding:0;
     margin:0;
     text-align:center;
@@ -24,4 +23,11 @@ ul{
 }
 .todo-main{
     display:block !important;
+}
+.like-icon{
+    cursor: pointer;
+    transition: .5s all linear;
+}
+.like-icon:active{
+    transform: scale(0.8)
 }

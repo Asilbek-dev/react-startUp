@@ -8,9 +8,9 @@ import Todo from "./components/todo";
 
 function App() {
 	return (
-		<>
-			<Todo/>
-		</>
+		<main className="my-5">
+			<Foods/>
+		</main>
 	);
 }
 
