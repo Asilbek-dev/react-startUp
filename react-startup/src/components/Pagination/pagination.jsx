@@ -19,7 +19,7 @@ const Pagination = ({onPageChange,pageSize,currentPage,countItems}) => {
             </li>
             ))}
         </ul>
-     );
+    );
 }
- 
+
 export default Pagination;

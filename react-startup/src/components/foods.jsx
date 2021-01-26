@@ -1,5 +1,5 @@
 import { Component } from 'react'
-import {getFoods} from "../services/fakeFoods"
+import {getFoods} from "../services/fakeFoods"  
 import Like from './like';
 import "./todo.css";
 import Pagination from './Pagination/pagination';
@@ -52,7 +52,7 @@ class Foods extends Component {
                                     <th>Title</th>
                                     <th>Category</th>
                                     <th>Price</th>
-                                    <th>Amount</th>
+                                    <th>Amount</th>x`
                                     <th>Unit</th>
                                     <th>Action</th>
                                 </tr>
