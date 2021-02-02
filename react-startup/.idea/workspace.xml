@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="092a2397-5f7e-481f-a825-c50adaa41f76" name="Default Changelist" comment="" />
+    <list default="true" id="092a2397-5f7e-481f-a825-c50adaa41f76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Pagination/list-group.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pagination/list-group.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/foods.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/foods.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="TaskManager">
@@ -29,6 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611037199360</updated>
       <workItem from="1611037201731" duration="6000" />
+      <workItem from="1612159005379" duration="39000" />
     </task>
     <servers />
   </component>

@@ -6,6 +6,7 @@ import Pagination from './Pagination/pagination';
 import {paginate} from "../utils/paginate.js";
 import  ListGroup  from "./Pagination/list-group.jsx";
 import {getCategories} from "../services/fakeCategories.js"
+import Icon from '../component/svg';
 
 class Foods extends Component {
     state = { 
@@ -82,6 +83,8 @@ class Foods extends Component {
                         />
                     </div>
                 </div>
+
+                <Icon name = "test" color = "#ff2525" width = {50} height = {50}/>
             </main>
         );
     }

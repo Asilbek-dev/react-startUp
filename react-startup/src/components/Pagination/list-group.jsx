@@ -11,7 +11,7 @@ const ListGroup = ({items}) =>{
     
 };
 // for (let i = 0; i < categories._id; i++) {
-//     if(categories.name === "Ichimlik")
+//     if(categories.name === "Ichimlik")0
 //     num++;
     
 // }
